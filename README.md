@@ -6,10 +6,10 @@ The client requests a website that will contain information about JRPG (Japanese
 For the purpose of this project, three franchises will be implemented: Persona, Atelier, and Xeno.
 
 ### Site Map
-![Site Map for JRPGrotto](/images/Week 1 Site Map.png)
+![Site Map for JRPGrotto](/images/Week-1-Site-Map.png)
 
 ### UI/Design Of Backend Pages
 ![Login Page for Staff](/images/Login.png)
 ![Logout Page for Staff](/images/Logout.png)
-![Main staff area](/images/Main Menu.png)
+![Main staff area](/images/Main-Menu.png)
 
