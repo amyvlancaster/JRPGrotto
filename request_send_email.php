@@ -35,7 +35,7 @@
 			$email_body = "You have received a new message from the user $name.\n".
     		"Here is the message:\n $message".
     		//Prepare the e-mail 
-			$to = "amy.lancaster@mymail.champlain.edu";
+			$to = " "; //Enter your e-mail address
 			$headers = "From: $email_from \r\n";
 			$headers .= "Reply-To: $email \r\n";
 			//Send the email
