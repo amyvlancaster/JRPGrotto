@@ -12,4 +12,9 @@ For the purpose of this project, three franchises will be implemented: Persona, 
 ![Login Page for Staff](/images/Login.png)
 ![Logout Page for Staff](/images/Logout.png)
 ![Main staff area](/images/Main-Menu.png)
+![Manage Content area](/images/Manage-Content.png)
+![Add Users](/images/Add-Users.png)
+
+### ERD for SQL Tables
+[Click here](/images/ERD.pdf)
 
