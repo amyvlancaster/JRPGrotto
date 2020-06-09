@@ -137,7 +137,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `password`, `created_at`, `is_locked`, `login_fail_count`, `lock_start_timestamp`, `email`, `first_name`, `last_name`, `DOB`, `role`) VALUES
-(1, 'Amivicky', '$2y$10$ZC1ORPni/kxU63AginTuZuilIwC/dqJ9eVhmuO0lrHR6qxs.m1acy', '2020-04-05 15:51:57', NULL, NULL, NULL, 'amy.lancaster@mymail.champlain.edu', 'Amy', 'Lancaster', '1990-11-08 00:00:00', 'Admin');
+(1, ' ', ' ', ' ', NULL, NULL, NULL, ' ', ' ', ' ', ' ', 'Admin');
 
 --
 -- Indexes for dumped tables
