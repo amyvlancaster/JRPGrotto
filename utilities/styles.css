@@ -1,0 +1,240 @@
+body {
+	background-color: #fff;
+	color: #000;
+	font-family: raleway, helvetica, sans-serif;
+}
+
+a {
+	color: #ec7c80;
+}
+
+/*tables*/
+th {
+	background-color: #eca9ab;
+}
+table, th, td {
+	border-collapse: collapse;
+	border: 1px solid black;
+	text-align: left;
+	padding: 5px;
+	width: 25%;
+}
+
+.table {
+	position: relative;
+	bottom: 150px;
+}
+
+.table2 {
+	position: relative;
+	bottom: 150px;
+	left: 50px;
+}
+
+/*Header*/
+.header {
+	background-color: #ec7c80;
+	color: #fff;
+	width: 100%;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	height: 100px;
+}
+
+.jrpgrotto a {
+	color: #fff;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 50px;
+	position: absolute;
+	top: 20px;
+	left: 10px;
+}
+
+.jrpgrotto a:hover {
+	color: #ecb3b7;
+}
+
+.nav {
+	word-spacing: 30px;
+}
+
+.nav a {
+	color: #fff;
+	text-decoration: none;
+	font-weight: bold;
+	position: relative;
+	left: 45%;
+	top: 45px;
+}
+
+.nav a:hover {
+	color: #ecb3b7;
+}
+
+.staffnav a {
+	color: #fff;
+	text-decoration: none;
+	font-weight: bold;
+	position: relative;
+	left: 90%;
+	top: 25px;
+}
+
+.staffnav a:hover {
+	color: #ecb3b7;
+}
+
+/*Homepage*/
+.mainheadline {
+	padding-top: 100px;
+}
+
+.mainheadline h2 {
+	color: #fff;
+	background-color: #ec7c80;
+	position: absolute;
+	top: 400px;
+	padding-left: 10px;
+	padding-right: 164px;
+}
+
+.sidebar {
+	position: relative;
+	width: 250px;
+	left: 75%;
+	bottom: 410px;
+
+}
+
+.square {
+	width: 250px;
+	height: 250px;
+	object-fit: cover;
+}
+
+.otherheadlines {
+	position: relative;
+	bottom: 830px;
+	width: 50%;
+}
+
+/*Staff login*/
+.logintitle {
+	position: relative;
+	top: 100px;
+}
+
+.loginform {
+	position: relative;
+	top: 100px;
+}
+
+/*Staff logout*/
+.logouttitle h2 {
+	position: relative;
+	top: 100px;
+
+}
+
+/*Staff area homepage*/
+.staffareatitle h2 {
+	position: relative;
+	top: 100px;
+	left: 5px;
+}
+
+.staffareanav {
+	background-color: #ec7c80;
+	position: relative;
+	top: 100px;
+	width: 250px;
+	height: 250px;
+}
+
+.staffareanav a {
+	color: #fff;
+	text-decoration: none;
+	font-weight: bold;
+	position: relative;
+	left: 10px;
+	top: 10px;
+	font-size: 20px;
+	line-height: 50px;
+}
+
+.staffareanav a:hover {
+	color: #ecb3b7;
+}
+
+/*Manage content page */
+.managecontenttitle {
+	position: relative;
+	bottom: 200px;
+}
+
+.contentnav {
+	background-color: #ec7c80;
+	position: absolute;
+	top: 200px;
+	left: 40%;
+	width: 250px;
+	height: 300px;
+	line-height: 20px;
+}
+
+.contentnav a {
+	color: #fff;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.contentnav a:hover {
+	color: #ecb3b7;
+}
+
+.contentnav h4 {
+	font-size: 20px;
+	line-height: 0px;
+	color: #fff;
+}
+
+.contentform {
+	background-color: #fff;
+	position: absolute;
+	top: 200px;
+	left: 40%;
+	width: 250px;
+	height: 300px;
+	line-height: 20px;
+}
+
+/*Add users page*/
+.adduserstitle {
+	position: absolute;
+	top: 100px;
+	left: 50%;
+}
+
+.usersnav {
+	background-color: #ec7c80;
+	position: absolute;
+	top: 170px;
+	left: 45%;
+	width: 250px;
+	height: 200px;
+	line-height: 30px;
+}
+
+.usersnav a {
+	color: #fff;
+	text-decoration: none;
+	font-weight: bold;
+	position: relative;
+	top: 30px;
+}
+
+.usersnav a:hover {
+	color: #ecb3b7;
+}
